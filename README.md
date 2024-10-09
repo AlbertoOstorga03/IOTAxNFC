@@ -1,4 +1,4 @@
-# IOTAxNFC-
+# IOTAxNFC - Qbii DEMO
 This is a DEMO for an IOTAxNFC mechanism
 
 This code was tested using Ubuntu 24.04, please refer to requirements.txt to install all libraries
