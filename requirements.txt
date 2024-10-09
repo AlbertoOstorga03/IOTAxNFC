@@ -1,0 +1,13 @@
+dacite==1.8.1
+iota-sdk==1.1.4
+libusb1==3.1.0
+ndeflib==0.3.3
+nfcpy==1.0.4
+pyDes==2.0.1
+pyfiglet==1.0.2
+pyhumps==3.8.0
+pyserial==3.5
+python-dotenv==1.0.1
+setuptools==75.1.0
+termcolor==2.5.0
+wheel==0.44.0
